@@ -2,7 +2,7 @@
   "name": "nordic-vscode",
   "displayName": "nordic-vscode",
   "description": "A dark and frosty color theme inspired by AlexvZyl's 🌒 Nordic theme!",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "publisher": "bonchol",
   "icon": "assets/hotsprings.png",
   "engines": {
