@@ -1,16 +1,10 @@
-# nordic-vscode README
+# Nordic-Vscode Color Theme
 
-## Working with Markdown
+A warm and frosty color theme inspired by one of my personal favorite color schemes in Neovim!
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+### Credits to:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- [AlexvZyl](https://github.com/AlexvZyl/nordic.nvim) (syntax highlighting colors)
+- [Nord](https://www.nordtheme.com/docs/colors-and-palettes) (base color pallette)
 
 **Enjoy!**
