@@ -1,0 +1,35 @@
+{
+  "name": "nordic-vscode",
+  "displayName": "nordic-vscode",
+  "description": "A dark and frosty color theme inspired by AlexvZyl's 🌒 Nordic theme!",
+  "version": "0.0.1",
+  "publisher": "bonchol",
+  "icon": "assets/hotsprings.png",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bonchol/nordic-vscode.git"
+  },
+
+  "categories": [
+    "Themes"
+  ],
+  
+  "keywords": [
+    "dark",
+    "nord",
+    "nordic"
+  ],
+
+  "contributes": {
+    "themes": [
+      {
+        "label": "nordic-vscode",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nordic-vscode-color-theme.json"
+      }
+    ]
+  }
+}
