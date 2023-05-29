@@ -1,6 +1,6 @@
 # Nordic-Vscode Color Theme
 
-A warm and frosty color theme inspired by one of my personal favorite color schemes in Neovim!
+A warm and frosty color theme inspired by one of my personal favorite color schemes in Neovim! Still a WIP
 
 ### Credits to:
 
